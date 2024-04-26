@@ -1,3 +1,17 @@
+wf.*.md
+/deploy/export/
+ade.*
+ade-.*
+.vs/
+build*/
+cbuild*/
+
+
+
+
+
+
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
